@@ -1,6 +1,6 @@
 @media (max-width: 90em) {
   .container {
-    max-width: 37.5rem;
+    max-width: 76.8rem;
   }
 
   .section-hero {
@@ -65,6 +65,10 @@
 }
 
 @media (max-width: 38em) {
+  .container {
+    max-width: 37.5rem;
+  }
+
   .header-primary {
     font-size: 4rem;
   }
