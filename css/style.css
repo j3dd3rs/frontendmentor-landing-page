@@ -169,7 +169,10 @@ section {
 
 /* FOOTER */
 footer {
-  background-image: linear-gradient(rgba(77, 151, 169, 0.875)),
+  background-image: linear-gradient(
+      rgba(77, 151, 169, 0.875),
+      rgba(77, 151, 169, 0.875)
+    ),
     url(../assets/desktop/image-footer.jpg);
   background-position: center;
   background-size: auto;
